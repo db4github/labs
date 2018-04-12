@@ -13,8 +13,8 @@ Nutanix Calm
    alm
    devops
    orchestration
-   docker
-   k8s
+   #docker
+   #k8s
    nucalm_overview
    nucalm_deepdive
    .. nucalm_positioning
@@ -24,8 +24,8 @@ Nutanix Calm
    lab2
    lab3
    lab4
-   lab5
-   lab6
-   lab7
-   lab8
-   mission
+   #lab5
+   #lab6
+   #lab7
+   #lab8
+   #mission
